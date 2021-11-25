@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalomePapereux
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how to create a chatbot 
+- 🌱 I’m currently learning how to construct a robust Adversial Network 
 - 💞️ I’m collaborating on a chatbot project with ... 
 - 📫 How to reach me : salome.papereux@gmail.com
 
